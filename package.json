@@ -1,6 +1,6 @@
 {
   "name": "camo",
-  "version": "0.12.3",
+  "version": "0.12.4",
   "description": "A class-based ES6 ODM for Mongo-like databases.",
   "author": {
     "name": "Scott Robinson",
@@ -36,14 +36,14 @@
   },
   "dependencies": {
     "depd": "1.1.0",
-    "lodash": "3.9.3"
+    "lodash": "^4.17.20"
   },
   "optionalDependencies": {
-    "mongodb": "2.0.42",
-    "nedb": "1.8.0"
+    "mongodb": "^3.6.0",
+    "nedb": "^1.8.0"
   },
   "devDependencies": {
-    "chai": "3.0.0",
-    "mocha": "2.2.5"
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
   }
 }
